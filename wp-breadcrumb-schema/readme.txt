@@ -1,7 +1,7 @@
 === Plugin Name ===
  * Plugin Name: WP BREADCRUMB SCHEMA 
  * Plugin URI:  https://github.com/Pijushgupta/wp-breadcrumb-schema.git
- * Description: Description of the plugin.
+ * Description: Breadcumb Schema for Pages.
  * Version:     1.0.0
  * Author:      Pijush Gupta
  * Author URI:  https://github.com/Pijushgupta
