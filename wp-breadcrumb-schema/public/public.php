@@ -46,7 +46,6 @@ class public_main extends common{
             $schema_body_array[$i]  = '{"@type": "ListItem",';
             $schema_body_array[$i] .= '"position": '.$i.',';
             $schema_body_array[$i] .= '"name":"'.$single_data->parent_title.'",';
-           // echo $single_data->parent_title;
             $schema_body_array[$i] .= '"item":"'.get_permalink($single_data->parent_id).'"}';
             $i++;
         }
